@@ -1,6 +1,6 @@
 {
   "name": "@testomatio/reporter",
-  "version": "1.0.17",
+  "version": "6.6.6",
   "description": "Testomatio Reporter Client - test BF",
   "main": "./lib/reporter.js",
   "typings": "typings/index.d.ts",
@@ -75,4 +75,3 @@
     "start-test-run": "./lib/bin/startTest.js"
   }
 }
-1
